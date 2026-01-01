@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:        A fast, native GUI for removing bloatware from Android devices.
 
 License:        MIT
-URL:            https://github.com/Md-Siam-Mia-Man/UAD-Universal-Android-Debloater
+URL:            https://github.com/rootLocalGhost/UAD-Universal-Android-Debloater
 Source0:        %{url}/archive/refs/tags/v%{version}.tar.gz
 
 BuildRequires:  rust
